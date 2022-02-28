@@ -4,7 +4,7 @@
 
     "RPC": "https://api.avax.network/ext/bc/C/rpc",
 
-    "GWEI_GAS": 35,
+    "GWEI_GAS": 50,
 
     "MaxTXFeeAVAX": 0.05,
 
