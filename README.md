@@ -22,7 +22,7 @@ Visit our community for help or questions, on Discord or Github you can open tic
 ![Sniper](https://trading-tigers.com/logos/AVAX-SNIPER.png)  
 
 # Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/TraderJoe_BSC_Sniper_Bot/releases), there you can download Windows executable.
+### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/TraderJoe_Avax_Sniper_Bot/releases), there you can download Windows executable.
 
 ### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
 
