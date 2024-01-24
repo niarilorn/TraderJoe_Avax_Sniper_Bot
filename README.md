@@ -4,6 +4,10 @@
 Web3 TraderJoe Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
 ### The first Avalanche Smart Chain sniper bot with Honeypot checker!  
 
+## If support is needed, feel free to contact me on Telegram.
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Sevens_W3_Lab-blue)](https://t.me/Sevens_W3_Lab)
+
 
 # Infos
 This Tool only buys/sells with/to AVAX but it use Multi Hops to get allways the best Output!  
